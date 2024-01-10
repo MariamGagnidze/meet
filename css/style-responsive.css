@@ -1,7 +1,5 @@
 @media screen and (min-width: 768px){
-.container{
-    width: 204%;
-}
+
 
     .box1 h1{
     font-size: 130px;
@@ -83,6 +81,34 @@ footer{
 button.downloads{
     width: 120%;
 }
+footer h1{
+    font-size: px;
+}
+
+.texts h1{
+    font-size: 63px;
+    
+    font-weight: 900;
+    line-height: 110px; 
+}
+.texts p{
+    font-size:20px;
+}
+
+
+
+}
+
+@media screen and (max-width: 768px){
+    .container{
+       /* width: 204%;  */
+    }
+    .mobile{
+        width: 100%;
+    }
+    
+
+ 
 
 
 
